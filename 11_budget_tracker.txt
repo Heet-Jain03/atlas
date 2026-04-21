@@ -1,0 +1,28 @@
+MONTHLY BUDGET TRACKER - April 2026
+=====================================
+Monthly Income: $4,500.00
+
+FIXED EXPENSES:
+  Rent/Mortgage       $1,200.00
+  Car payment           $350.00
+  Insurance             $180.00
+  Internet/Phone         $90.00
+  Subscriptions          $45.00
+  SUBTOTAL:          $1,865.00
+
+VARIABLE EXPENSES:
+  Groceries             $420.00
+  Dining out            $180.00
+  Gas/Transport         $110.00
+  Entertainment          $95.00
+  Clothing               $60.00
+  Miscellaneous         $120.00
+  SUBTOTAL:            $985.00
+
+SAVINGS:
+  Emergency fund        $300.00
+  Investments           $450.00
+  SUBTOTAL:            $750.00
+
+TOTAL EXPENSES + SAVINGS: $3,600.00
+REMAINING:                  $900.00
