@@ -1,0 +1,19 @@
+MEETING NOTES
+=============
+Date: April 21, 2026
+Attendees: Alice, Bob, Carol, David
+Topic: Q2 Marketing Strategy
+
+KEY POINTS DISCUSSED:
+- Budget for Q2 approved at $120,000
+- New social media campaign launching May 1st
+- Partnership with InfluencerX confirmed
+- Website redesign delayed to June due to dev bandwidth
+
+ACTION ITEMS:
+[Alice]  - Finalize ad creatives by April 28
+[Bob]    - Draft partnership agreement by April 25
+[Carol]  - Update analytics dashboard by April 30
+[David]  - Coordinate with dev team on timeline
+
+NEXT MEETING: April 28, 2026 at 10:00 AM
