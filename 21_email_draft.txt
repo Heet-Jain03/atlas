@@ -1,0 +1,25 @@
+EMAIL DRAFT
+============
+TO:      team@company.com
+FROM:    manager@company.com
+SUBJECT: Friday Team Lunch — You're Invited!
+
+Hi everyone,
+
+Just a quick note to let you all know that we're organizing a team lunch
+this Friday, April 25th, at 12:30 PM at The Garden Bistro on 5th Avenue.
+
+This is a chance to relax, celebrate a strong Q1, and spend some time
+together outside of meetings and Slack threads!
+
+The company is covering the bill, so no need to worry about that.
+
+Please reply to this email by Wednesday if you can make it so we can
+confirm the reservation. Dietary restrictions? Let me know and I'll make
+sure the restaurant accommodates you.
+
+Looking forward to seeing you all there.
+
+Best,
+Jordan
+Team Lead, Product Engineering
