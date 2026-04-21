@@ -1,0 +1,27 @@
+MOVIE WATCHLIST 2026
+=====================
+Status: [W] = Watched | [P] = Plan to Watch | [S] = Skipped
+
+DRAMA:
+[W] The Shawshank Redemption (1994)       ★★★★★
+[W] Schindler's List (1993)               ★★★★★
+[P] A Complete Unknown (2024)
+[P] Conclave (2024)
+
+THRILLER:
+[W] Parasite (2019)                       ★★★★★
+[W] Gone Girl (2014)                      ★★★★
+[P] Sinners (2025)
+
+SCI-FI:
+[W] Interstellar (2014)                   ★★★★★
+[W] Arrival (2016)                        ★★★★★
+[P] Dune Part Three (TBA)
+
+COMEDY:
+[W] The Grand Budapest Hotel (2014)       ★★★★
+[P] Anora (2024)
+
+DOCUMENTARY:
+[P] Free Solo (2018)
+[W] My Octopus Teacher (2020)             ★★★★
