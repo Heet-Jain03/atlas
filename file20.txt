@@ -1,2 +1,0 @@
-Username: user123
-Password: example@123
