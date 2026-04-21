@@ -1,2 +1,0 @@
-Bug found in login module.
-Fix required in authentication logic.
