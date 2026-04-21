@@ -1,0 +1,27 @@
+FREQUENTLY ASKED QUESTIONS
+============================
+Product: CloudSync Pro v4.2
+
+Q: How do I install CloudSync Pro?
+A: Download the installer from our website, run the .exe or .dmg file,
+   and follow the on-screen instructions. Requires 500MB free space.
+
+Q: Is my data encrypted?
+A: Yes. All data is encrypted in transit (TLS 1.3) and at rest (AES-256).
+
+Q: How many devices can I sync?
+A: Free plan: 2 devices. Pro plan: unlimited devices.
+
+Q: What happens if I exceed my storage limit?
+A: Uploads will pause. You'll receive an email notification 3 days before
+   hitting the limit. Upgrade your plan to continue syncing.
+
+Q: Can I share files with non-users?
+A: Yes. Generate a shareable link from any file. Links expire in 7 days
+   by default (configurable in settings).
+
+Q: How do I cancel my subscription?
+A: Go to Account > Billing > Cancel Subscription. You retain access
+   until the end of your billing period.
+
+Support: support@cloudsyncpro.com | 1-800-555-0198
