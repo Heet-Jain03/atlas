@@ -1,0 +1,19 @@
+SHOPPING LIST - Weekly Groceries
+=================================
+1. Milk (2 liters)
+2. Bread (whole wheat)
+3. Eggs (1 dozen)
+4. Butter (unsalted)
+5. Apples (6 pieces)
+6. Bananas (1 bunch)
+7. Chicken breast (500g)
+8. Rice (1kg)
+9. Pasta (500g)
+10. Tomato sauce (2 cans)
+11. Olive oil
+12. Salt and pepper
+13. Yogurt (plain)
+14. Orange juice
+15. Coffee (ground)
+
+Total estimated budget: $65.00
