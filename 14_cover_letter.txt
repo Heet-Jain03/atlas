@@ -1,0 +1,29 @@
+COVER LETTER
+=============
+April 21, 2026
+
+Hiring Manager
+TechBridge Solutions
+San Francisco, CA
+
+Dear Hiring Manager,
+
+I am excited to apply for the Software Engineer position at TechBridge
+Solutions. With five years of experience building scalable web applications
+and a passion for clean, maintainable code, I believe I would be a strong
+addition to your engineering team.
+
+In my current role at Apex Technologies, I led the development of a
+microservices migration that reduced system latency by 40% and improved
+deployment frequency by 3x. I am proficient in Python, JavaScript (React),
+and cloud infrastructure (AWS/GCP).
+
+What draws me to TechBridge is your commitment to developer experience and
+your open-source contributions. I align strongly with that culture.
+
+I would welcome the opportunity to discuss how I can contribute to your team.
+Thank you for your consideration.
+
+Sincerely,
+Alex Chen
+alex.chen@email.com | (415) 555-0192
